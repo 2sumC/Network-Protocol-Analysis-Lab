@@ -16,6 +16,9 @@ A network protocol analysis toolkit built with Python and Scapy for deep packet 
 - **Automated Reporting**: Readable HTML reports with traffic visualizations
 - **Traffic Simulation**: Built-in traffic generator for testing
 - **Security Insights**: Anomaly detection and security pattern analysis
+<img width="1099" height="797" alt="截屏2025-10-26 上午10 18 49" src="https://github.com/user-attachments/assets/c46565ef-4a1c-4d6c-8c2f-dc8e6e1233f0" />
+
+  
 
 ---
 
